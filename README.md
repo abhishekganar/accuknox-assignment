@@ -1,8 +1,8 @@
-\# AccuKnox Assignment
+\ AccuKnox Assignment
 
 
 
-\*\*Candidate:\*\* Abhishek Ganar
+\\Candidate:\\ Abhishek Ganar
 
 
 
@@ -10,11 +10,11 @@ This repository contains my solutions for the AccuKnox Backend/Platform assignme
 
 
 
-\## Problems
+\ Problems
 
 
 
-\### Problem 1 — eBPF TCP Port Filtering
+\ Problem 1 — eBPF TCP Port Filtering
 
 
 
@@ -22,7 +22,7 @@ An eBPF-based solution to drop TCP traffic destined for a specified port, with p
 
 
 
-\### Problem 2 — Process-Specific TCP Filtering
+\ Problem 2 — Process-Specific TCP Filtering
 
 
 
@@ -30,7 +30,7 @@ An eBPF-based solution to allow traffic only on a specified TCP port for a given
 
 
 
-\### Problem 3 — Go Concurrency
+\ Problem 3 — Go Concurrency
 
 
 
@@ -38,23 +38,23 @@ An explanation of the provided Go program covering goroutines, channels, buffere
 
 
 
-\## Technologies
+\ Technologies
 
 
 
-\* Go
+\ Go
 
-\* C
+\ C
 
-\* eBPF
+\ eBPF
 
-\* Linux
+\ Linux
 
-\* Git/GitHub
+\ Git/GitHub
 
 
 
-\## Repository Structure
+\ Repository Structure
 
 
 
